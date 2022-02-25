@@ -1,6 +1,6 @@
 FROM alpine:3.12.0
 
-LABEL maintainer="Ampere Solution Architect"
+LABEL maintainer="dojojo2020"
 
 ENV NGINX_VERSION 1.16.1
 

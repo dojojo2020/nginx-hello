@@ -3,6 +3,6 @@
 
 % kubectl create -f nginx-hello-app/nginx-hello-app-pvc.yaml 
 
-% kubectl create -f nginx-vod-app/nginx-vod-app-deployment.yaml 
+% kubectl create -f nginx-hello-app/nginx-hello-app-deployment.yaml 
 
 % kubectl create -f nginx-hello-app/nginx-hello-app-service.yaml 

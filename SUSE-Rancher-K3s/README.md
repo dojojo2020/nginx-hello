@@ -8,5 +8,6 @@ The steps to deploy Hello World WebApp container with PVC to OCI
 
 % kubectl create -f nginx-hello-app/nginx-hello-app-service.yaml 
 
-## Make sure there is a FQDN in the ingress YAML file for the container
+## Please make sure there is a FQDN in the ingress YAML file for the container 
+
 % kubectl create -f nginx-hello-app/nginx-hello-app-ingress.yaml 

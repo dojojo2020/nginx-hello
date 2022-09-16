@@ -1,6 +1,6 @@
 # Deploy this Hello World WebApp container to SUSE K3s cluster
 
-The steps to deploy Hello World WebApp container with PVC to OCI
+The steps to deploy Hello World WebApp container with PVC to K3s + Longhorn
 
 % kubectl create -f nginx-hello-app-pvc.yaml 
 
